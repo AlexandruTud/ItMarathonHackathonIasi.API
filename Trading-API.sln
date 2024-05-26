@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trading-API", "Trading-API\Trading-API.csproj", "{7B9CB321-7C16-458A-8E47-150E2BBC7D61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B9CB321-7C16-458A-8E47-150E2BBC7D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9CB321-7C16-458A-8E47-150E2BBC7D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9CB321-7C16-458A-8E47-150E2BBC7D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9CB321-7C16-458A-8E47-150E2BBC7D61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {647976FB-0F43-4954-B51B-833BD90D25E7}
+	EndGlobalSection
+EndGlobal
